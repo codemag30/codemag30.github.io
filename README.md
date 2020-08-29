@@ -1,2 +1,2 @@
-# codemag30.github.io
+# codemag.github.io
 strengthening us
